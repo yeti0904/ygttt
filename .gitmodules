@@ -1,0 +1,3 @@
+[submodule "M_ncurses"]
+	path = M_ncurses
+	url = https://github.com/urbanjost/M_ncurses
