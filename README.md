@@ -2,6 +2,8 @@
 
 a simple tic tac toe game written in fortran 2003 using ncurses
 
+<img src="pic/screenshot.png">
+
 ## build
 first clone the repository
 
